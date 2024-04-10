@@ -1,0 +1,19 @@
+package com.company.types;
+
+public enum  Enemy {
+    BRAWLER,
+    SOLDIER_A,
+    SOLDIER_B,
+    RIFLE_MAN,
+    COMBAT_DRUID,
+    HIGH_RANK_SOLDIER,
+    MILITARY_LEADER,
+    LIGHT_TURRET,
+    HEAVY_TURRET,
+    VARUTHA_LEAF,
+    VARUTHA_SOLDIER,
+    VARUTHA_SPY,
+    VARUTHA_MOTHERNODE,
+
+    DOG
+}
